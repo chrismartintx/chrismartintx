@@ -6,7 +6,7 @@
 
 🏡 At home, I play with all of the expected homelab, [self-hosted](https://github.com/awesome-selfhosted/awesome-selfhosted), and [Home Assistant](https://github.com/home-assistant) projects.  [pfSense](https://www.pfsense.org/), [Docker](https://www.docker.com/), [Tailscale](https://tailscale.com/), you name it...
 
-💻 I grew up a [DOS](https://en.wikipedia.org/wiki/DOS)/[Windows](https://en.wikipedia.org/wiki/Windows_3.1) kid, but became a Mac user somewhere around [macOS Sierra](https://en.wikipedia.org/wiki/MacOS_Sierra).  I distro hopped back in the day, but stick to [Debian](https://www.debian.org/)-based [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html) these days.  Professionally, I am in a Microsoft shop. 
+💻 Groing up I was a [DOS](https://en.wikipedia.org/wiki/DOS)/[Windows](https://en.wikipedia.org/wiki/Windows_3.1) kid.   I used Macs plenty too, but they did not became my daily until somewhere around [macOS Sierra](https://en.wikipedia.org/wiki/MacOS_Sierra).  I distro hopped back in the day, but I stick to [Debian](https://www.debian.org/)-based [GNU/Linux](https://www.gnu.org/gnu/linux-and-gnu.en.html) these days.  Professionally, I am in a Microsoft shop. 
 
 🔗 Swing by my [website](https://chrismartintx.com/) for more about me and my professional journey...  🚒🚑⛑🌊👨‍💼👨‍💻
 
