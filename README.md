@@ -1,4 +1,4 @@
-[🇺🇸🏃‍♂️🏋️‍♂️🧘‍♂️🏄‍♂️🏕️🎶👨‍💻🚒🚑](https://chrismartintx.com/)
+[chrismartintx.com](https://chrismartintx.com/)
 
 <!---
 chrismartintx/chrismartintx is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
